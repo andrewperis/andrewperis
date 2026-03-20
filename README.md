@@ -1,5 +1,32 @@
-## Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-andrewperis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewperis/)](https://www.linkedin.com/in/andrewperis/)
+# Andrew Peris
+Platform & cloud engineering leader focused on DevEx, system reliability, and scalable architecture. Builder of pragmatic systems, AI-augmented engineering workflows, and tools that make developers faster.
+
+---
+
+## What I'm focused on
+- Platform engineering and developer experience (DevEx)
+- Scalable cloud architecture across AWS, Azure, and OCI
+- AI-augmented engineering workflows and productivity
+- Building simple, reliable systems that scale
+
+---
+
+## Current projects
+- **AI Agent Time Tracker**
+  Measuring AI usage and engineering productivity through structured metrics and insights.
+
+---
+
+## How I think
+- Simplicity beats over-engineering
+- Measure what matters
+- Build systems teams can actually operate
+- Use AI to enhance-not replace-engineering discipline
+
+---
+
+## Connect
+- LinkedIn: https://linkedin.com/in/andrewperis
 
 
 <!--
